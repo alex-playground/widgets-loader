@@ -1,0 +1,19 @@
+{
+  "name": "@alex-playground/widgets-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alubchuk",
+  "license": "ISC",
+  "dependencies": {
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-webpack-plugin": "^2.30.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.10.0",
+    "webpack-bundle-analyzer": "^2.9.2"
+  }
+}
